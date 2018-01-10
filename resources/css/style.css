@@ -5,7 +5,7 @@ html {
 }
 
 body {
-  padding-top: 70px;
+  padding-top: 50px;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -21,4 +21,11 @@ body {
 nav {
   font-size: 1.1rem;
   font-weight: bold;
+}
+
+
+/* jumbotron */
+
+.jumbotron-bike {
+  background-image: url("../images/jumbotron-bike.jpg");
 }
