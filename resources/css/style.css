@@ -50,7 +50,6 @@ nav {
 /* jumbotron */
 
 .jumbotron {
-  background-image: url("../images/jumbotron-bike.jpg");
   color: white;
   text-shadow:
   -1px -1px 0 #000,
@@ -58,6 +57,14 @@ nav {
   -1px 1px 0 #000,
   1px 1px 0 #000;
   text-align: center;
+  padding: 11.85rem 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.jumbotron-bike {
+  background-image: url("../images/jumbotron-bike.jpg");
 }
 
 /* featured project */
