@@ -20,6 +20,11 @@ h2 {
   color: #399bd1;
 }
 
+h3 {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
 .image-container img {
   width: 100%;
   height: auto;
@@ -90,12 +95,39 @@ nav {
   margin-bottom: 20px;
 }
 
+.categories h3 {
+  color: #399bd1;
+}
+
+.categories li {
+  line-height: 1.4rem;
+  color: rgba(0, 0, 0, 0.7);
+}
+
 /* projects */
 
+.projects {
+  margin-bottom: 5.85rem;
+}
 
 
 /* trouble */
 
 .trouble {
   text-align: center;
+  padding: 5.2rem 0;
+  background-color: #f3f3f3;
+}
+
+.trouble strong {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1.4rem;
+  display: inline-block;
+  /* ne comprends pas pq inline-block */
+}
+
+.trouble p {
+  max-width: 42rem;
+  margin: auto;
 }
