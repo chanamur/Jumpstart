@@ -94,6 +94,18 @@ nav {
   background-image: url("../images/jumbotron-bike.jpg");
 }
 
+.jumbotron-bottle {
+  background-image: url("../images/jumbotron-beer.jpg");
+}
+
+.jumbotron-flowers {
+  background-image: url("../images/jumbotron-flowers.jpg");
+}
+
+.jumbotron-bag {
+  background-image: url("../images/jumbotron-duffel.jpg");
+}
+
 .jumbotron p {
   max-width: 51.3rem;
   margin: 0 auto;
